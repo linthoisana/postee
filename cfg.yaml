@@ -99,7 +99,7 @@ actions:
   enable: false
   use-mx: true
   sender:  # Mandatory: The email address to use as a sender
-  recipients: ["", ""]  # Mandatory: comma separated list of recipients
+  recipients: ["linthoisana.heikham@audi.de", ""]  # Mandatory: comma separated list of recipients
     
 - name: my-slack
   type: slack
